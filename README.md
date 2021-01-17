@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently learning JavaScript. At work, it's NodeJS (and AWS) all the time! Check out [Text Fall Cliff](https://github.com/rickumali/textfallcliff).
-- 📫 Send me email, if you want to correspond.
+- 💬 Ask me about [my beginner's Git book](https://www.manning.com/books/learn-git-in-a-month-of-lunches).
+- 📫 Send me email, if you want to correspond. (It's my favorite form of electronic communication.)
 - ⚡ Fun fact: I still learn plenty of Git!
